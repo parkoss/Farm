@@ -8,7 +8,8 @@ public class Game {
 
     public void game(){
         while(true){
-            System.out.println("");
+            System.out.println("vitej ve sve farme");
+
         }
     }
 }
